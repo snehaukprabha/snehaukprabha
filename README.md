@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **snehaukprabha/snehaukprabha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Snehaprabha!
+## 👋 Hi there, I'm Snehaprabha
+### About me
+- 🌱I am a data analyst who likes to document her learning Jounery.
+- 📚 I am currently learning to figure out story from a data and be the story teller.
+- 👯 I am open to collaborate on data analyst projects,volunteer or otherwise
+- 💬 Lets connect on [LinkedIn](www.linkedin.com/in/snehaukprabha)
+- 📫 Reach me via [email](snehaukprabha@gmail.com)
 
-I'm passionate about coding and building cool projects. Welcome to my GitHub profile! 🚀
+### Languages and Tools
+- Python
+- Pandas
+- SQL
+- Power BI
+- Tableau
+- Statistics
 
+I'm passionate about data and the art of making Meaniningful stories from it. Welcome to my GitHub profile! 🚀
+
+<!----
 ## About Me
 
 - 💻 I'm a software developer currently exploring various technologies.
@@ -46,3 +60,4 @@ Feel free to explore my repositories to see more!
 - 💬 Connect with me on [Twitter](Your Twitter Link) or [LinkedIn](Your LinkedIn Link).
 
 Let's connect and collaborate on exciting projects!
+-->
