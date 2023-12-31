@@ -7,11 +7,14 @@
 - 📫 Reach me via [email](snehaukprabha@gmail.com)
 
 ### Languages and Tools
-- Python
-- Pandas
-- SQL
+- Advanced Excel
 - Power BI
 - Tableau
+- SQL
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 - Statistics
 
 I'm passionate about data and the art of making Meaniningful stories from it. Welcome to my GitHub profile! 🚀
