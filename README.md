@@ -19,7 +19,9 @@
 
 I'm passionate about data and the art of making Meaniningful stories from it. Welcome to my GitHub profile! 🚀
 
-### My Projects
+### My Projects 
+- [Crowd Funding Success Analysis -Kick starter](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles)
 - [Sales_Analytics-Adventure_works_cycles](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles/tree/main)
+  
 
 
